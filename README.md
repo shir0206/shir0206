@@ -17,12 +17,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### About me
 
+I am a software developer:computer:, who also likes to paint:art: & plant:herb:!
+
+Currently I study for my M.Sc. in Information Systems :mortar_board: and work as a Frontend web developer :handbag:.
+
+:email: Feel free to leave a [message](mailto:shir0206@gmail.com)! 
+
+<hr>
+
+### Check out some cool stuff I've been doing lately
 
 - I'm currently working on a **web app** that serves as a **tour guide** in Haifa University campus :pushpin:, using `react.js`, `OpenStreetMap` & `Leaflet`.<br>Feel free to [take a look](https://github.com/shir0206/uninav)! :eyes:
 
 -  [This one](https://github.com/shir0206/PlantCSS) is a project for fun, where I paint a plant using CSS only! :seedling:
 
-
-
-### :email: Feel free to leave a [message](mailto:shir0206@gmail.com)! 
