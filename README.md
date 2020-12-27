@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### About me
 
-I am a software developer:computer:, who also likes to paint:art: & plant:herb:!
+I'm a software developer:computer:, who also likes to paint:art: & plant:herb:!
 
-Currently I  work as a Frontend Web Developer  👩🏻‍💻 and study for my M.Sc. in Information Systems :mortar_board:.
+Currently I work as a Frontend Web Developer  👩🏻‍💻 and study for my M.Sc. in Information Systems :mortar_board:.
 
 :email: Feel free to leave a [message](mailto:shir0206@gmail.com)! 
 
