@@ -1,4 +1,4 @@
-## You've reached Shir's Git! Welcome abord :hibiscus:
+# You've reached Shir's Git! Welcome abord :hibiscus:
 
 ![ShirZabolotnyGitHub](https://user-images.githubusercontent.com/40990488/103170618-3e9c1f00-484e-11eb-8962-6eba2d6a2c4a.png)
 
