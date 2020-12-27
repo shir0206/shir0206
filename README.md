@@ -25,6 +25,7 @@ Currently I  work as a Frontend Web Developer  👩🏻‍💻 and study for my 
 
 :email: Feel free to leave a [message](mailto:shir0206@gmail.com)! 
 
+
 <hr>
 
 ### Check out some cool stuff I've been doing lately
@@ -33,3 +34,4 @@ Currently I  work as a Frontend Web Developer  👩🏻‍💻 and study for my 
 
 -  [This one](https://github.com/shir0206/PlantCSS) is a project for fun, where I paint a seedling using `CSS` only! :seedling:
 
+-  You can check out my other works at [my portfolio](https://shir0206.github.io/ShirWeb/) 📝
