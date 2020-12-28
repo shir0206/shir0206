@@ -30,7 +30,7 @@ Currently I work as a Frontend Web Developer  👩🏻‍💻 and study for my M
 
 ### Some cool stuff I've been doing lately
 
-- I'm currently working on a **web app** that serves as a **tour guide** :pushpin:, using `react.js`, `OpenStreetMap` & `Leaflet`.<br>Come and [take a look](https://github.com/shir0206/uninav)! :eyes:
+- I'm currently working on a **web app** that serves as a mobile **tour guide** :pushpin:, using `react.js`, `OpenStreetMap` & `Leaflet`.<br>Come and [take a look](https://github.com/shir0206/uninav)! :eyes:
 
 -  [This one](https://github.com/shir0206/PlantCSS) is a project for fun, where I paint a seedling using `CSS` only! :seedling:
 
