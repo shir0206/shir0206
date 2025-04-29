@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### About me
 
-I'm a software developer:computer:, who also likes to paint:art: & plant:herb:!
+I'm a software developer :computer:, who also likes to paint :art: & plant :herb:!
 
 Currently I work as a Frontend Web Developer  👩🏻‍💻 and study for my M.Sc. in Information Systems :mortar_board:.
 
@@ -28,10 +28,10 @@ Currently I work as a Frontend Web Developer  👩🏻‍💻 and study for my M
 
 <hr>
 
-### Some cool stuff I've been doing lately
+### Some cool stuff I've done lately
 
-- I'm currently working on a **web app** that serves as a mobile **tour guide** :pushpin:, using `react.js`, `OpenStreetMap` & `Leaflet`.<br>Come and [take a look](https://github.com/shir0206/uninav)! :eyes:
+- This mobile-optimized web app serves as a tour guide :pushpin:, built with `react.js`, `OpenStreetMap` & `Leaflet`.<br>Come and [take a look](https://github.com/shir0206/uninav)! :eyes:
 
--  I really like drawing in `CSS` for fun!<br>[This flower](https://github.com/shir0206/css-flower) is one of my favorites :tulip:, and right now I'm working on [this project](https://github.com/shir0206/PlantCSS) that should be a little more sophisticated. :seedling:
+-  I really like drawing in `CSS` for fun!<br>[This flower](https://github.com/shir0206/css-flower) is one of my favorites :tulip:
 
 -  You can check out my other works at [my portfolio](https://shir0206.github.io/ShirWeb/) 📝
