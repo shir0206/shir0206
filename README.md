@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 I'm a software developer :computer:, who also likes to paint :art: & plant :herb:!
 
-Currently I work as a Frontend Web Developer  👩🏻‍💻 and study for my M.Sc. in Information Systems :mortar_board:.
+Currently I work as a Frontend Web Developer  👩🏻‍💻 and hold an M.Sc. in Information Systems :mortar_board:.
 
 :email: Feel free to leave a [message](mailto:shir0206@gmail.com) or connect me on [LinkedIn](https://www.linkedin.com/in/shir-zabolotny-a83b18109/)! 
 
